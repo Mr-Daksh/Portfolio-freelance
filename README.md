@@ -1,2 +1,2 @@
 # Portfolio
-My Portfolio
+Portfolio project as a freelancer
